@@ -2835,7 +2835,7 @@ var data = []byte(`{
         "Mozilla/5.0 (iPad; CPU OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/120.0 Mobile/15E148 Safari/605.1.15",
         "Mozilla/5.0 (iPod touch; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/120.0 Mobile/15E148 Safari/605.1.15",
         "Mozilla/5.0 (Android 14; Mobile; rv:109.0) Gecko/120.0 Firefox/120.0",
-        Mozilla/5.0 (Android 14; Mobile; LG-M255; rv:120.0) Gecko/120.0 Firefox/120.0
+        "Mozilla/5.0 (Android 14; Mobile; LG-M255; rv:120.0) Gecko/120.0 Firefox/120.0"
     ],
     "provincesGB": [
 		"Aberdeenshire",
