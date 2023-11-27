@@ -31,7 +31,7 @@ randomdata is a tiny help suite for generating random data such as
 
 ## Installation
 
-```go get github.com/Pallinder/go-randomdata```
+```go get github.com/sweetbbak/randomdata-go```
 
 ## Usage
 
@@ -41,7 +41,7 @@ package main
 
 import (
     "fmt"
-    "github.com/Pallinder/go-randomdata"
+    "github.com/sweetbbak/randomdata-go"
 )
 
 func main() {
@@ -189,9 +189,9 @@ func main() {
 ```
 
 ## Versioning / Release Strategy
-Go-Randomdata follows [Semver](https://www.semver.org)
+Go-Randomdata follows [Semver](https://www.semver.org) and using [Go modules](https://github.com/golang/go/wiki/Modules)
 
-You can find current releases tagged under the [releases section](https://github.com/Pallinder/go-randomdata/releases).
+You can find current releases tagged under the [releases section](https://github.com/sweetbbak/randomdata/releases-go).
 
 The [CHANGELOG.md](CHANGELOG.md) file contains the changelog of the project.
 
@@ -199,5 +199,7 @@ The [CHANGELOG.md](CHANGELOG.md) file contains the changelog of the project.
 
 * [jteeuwen](https://github.com/jteeuwen)
 * [n1try](https://github.com/n1try)
+* [sweetbbak](https://github.com/n1try)
+* [davidporos92](https://github.com/davidporos92)
 
 All the other contributors are listed [here](https://github.com/Pallinder/go-randomdata/graphs/contributors).
