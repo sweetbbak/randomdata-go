@@ -1,4 +1,4 @@
-module randomdata-go
+module github.com/sweetbbak/randomdata-go
 
 go 1.21.4
 
